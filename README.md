@@ -8,10 +8,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kunalydv-2000&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kunalydv-2000&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kunalydv-2000&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kunalydv-2000&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="kunalydv-2000 GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kunalydv-2000&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="kunalydv-2000 Top Languages" height="180" />
+</p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kunalydv-2000&theme=shades-of-purple&no-frame=false&no-bg=true&margin-w=4)
 
