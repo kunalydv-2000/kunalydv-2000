@@ -1,10 +1,10 @@
 <div align="center">
+  <!--Banner-->
 
-# Hi 👋, I'm Kunal Yadav
-
-### Data Analyst
+  ![jay3425 Banner Image](https://github.com/kunalydv-2000/hussainweb/blob/main/kunal-banner-svg.svg)
 
 </div>
+
 
 ## 🚀 About Me
 
