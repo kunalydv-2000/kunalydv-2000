@@ -44,7 +44,9 @@ Detail-oriented Entry-Level Data Analyst skilled in Python, SQL, Excel, Power BI
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kunalydv-2000&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="kunalydv-2000 Top Languages" height="180" />
 </p>
 
+<p align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kunalydv-2000&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+</p>
 
 ## 🏆 GitHub Trophies
 
