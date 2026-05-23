@@ -56,6 +56,20 @@ Detail-oriented Entry-Level Data Analyst skilled in Python, SQL, Excel, Power BI
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kunalydv-2000&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="kunalydv-2000 Top Languages" height="180" />
 </p>
 
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kunalydv-2000&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="55%"/>
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <a href="https://github.com/kunalydv-2000">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunalydv-2000&custom_title=Activity%20Graph&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
+  </a>
+</p>
+
 <div align="center">
 
 ### 🎯 "Code is like humor. When you have to explain it, it's bad." 
