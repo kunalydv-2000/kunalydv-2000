@@ -1,7 +1,7 @@
 <div align="center">
   <!--Banner-->
 
-  ![jay3425 Banner Image](https://github.com/kunalydv-2000/hussainweb/blob/main/kunal-banner-svg.svg)
+  ![kunalydv-2000 Banner Image]([https://github.com/kunalydv-2000/hussainweb/blob/main/kunal-banner-svg.svg](https://github.com/kunalydv-2000/kunalydv-2000/blob/main/GitHub%20Banner/kunal-banner-svg.svg))
 
 </div>
 
