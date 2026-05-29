@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Detail-oriented Entry-Level Data Analyst skilled in Python, SQL, Excel, Power BI, and Tableau. Passionate about transforming raw data into actionable insights through data cleaning, visualization, and dashboard development.
+Detail-oriented Entry-Level ![Data Analyst](https://img.shields.io/badge/Data-Analyst-0A66C2?style=flat&logo=databricks&logoColor=white) skilled in Python, SQL, Excel, Power BI, and Tableau. Passionate about transforming raw data into actionable insights through data cleaning, visualization, and dashboard development.
 
 ## 🎓 Education
 
