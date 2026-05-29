@@ -20,7 +20,7 @@ Detail-oriented Entry-Level ![Data Analyst](https://img.shields.io/badge/Data-An
 
 <div align="left">
 
-- 📫 How to reach me **kunal23ydv1999@gmail.com**
+- 📫 How to reach me [![Gmail](https://img.shields.io/badge/Gmail-kunal23ydv1999%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunal23ydv1999@gmail.com)
 
 </div>
 
