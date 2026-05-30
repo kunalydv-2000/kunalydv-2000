@@ -46,7 +46,7 @@ Detail-oriented aspiring ![Data Analyst](https://img.shields.io/badge/Data-Analy
 
 ## 📄 Resume
 
-[Download Resume](your-resume-link)
+[Download Resume](https://github.com/kunalydv-2000/kunalydv-2000/blob/4341670e182253eac8f5c1f30c62204e535caa51/KUNAL%2029%20May.pdf)
 
 # 💻 Tech Stack:
 
